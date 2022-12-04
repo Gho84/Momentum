@@ -15,7 +15,7 @@ body {
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
     background-color: transparent;
     outline: none;
 }
@@ -23,7 +23,7 @@ body {
 #LogInButton {
     width: 60px;
     height: 45px;
-    background-color: #e7e7e7; color: black;
+    background-color: #e7e7e7; color: white;
     border: none;
     border-radius: 8px;
 }
@@ -38,7 +38,7 @@ body {
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid white;
     background-color: transparent;
     margin-right: 60px;
     outline: none;
@@ -46,7 +46,7 @@ body {
 
 
 input::placeholder {
-    color: black;
+    color: white;
     font-size: 15px;
     font-weight: 600;
 }
